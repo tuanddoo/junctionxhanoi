@@ -84,15 +84,15 @@ const Welcome = props => (
             <Col xs={12} md={12} first="md" className="start-md">
               <h1 className={styles.h1Stuff}>EUROPE’S BIGGEST HACKATHON</h1>
               <h1 className={styles.h1Stuff}>
-                IS COMING TO <span className={styles.h1Accent}>BUDAPEST</span>
+                IS COMING TO <span className={styles.h1Accent}>Hanoi</span>
               </h1>
-              <p className={styles.content2header}>19 - 21. 10. 2018.</p>
+              <p className={styles.content2header}> 10. 2018</p>
             </Col>
             <Col xs={12} md={12} />
           </Row>
           <BlockHeader className={styles.subHeader} title={props.header2.toUpperCase()} />
           <div className={styles.countdown}>
-            <Countdown date={Date.parse('2018-10-18 23:59:59')} renderer={countdownRenderer} />
+            <Countdown date={Date.parse('2018-10-12 23:59:59')} renderer={countdownRenderer} />
           </div>
           <Row className={styles.linkRow} center="xs">
             <Col xs={12} sm={6} md={3}>
