@@ -19,9 +19,9 @@ const About = () => (
         <Col xs={12} md={6}>
           <h3>HACK THE FUTURE</h3>
           <p>
-            Europe’s biggest hackathon is now coming to Budapest!<br />
+            Europe’s biggest hackathon is now coming to Hanoi!<br />
             <br />
-            JUNCTIONxBudapest is an event where developers, designers, or talents of any field can compete in diverse
+            JUNCTIONxHanoi is an event where developers, designers, or talents of any field can compete in diverse
             teams in order to build and present their revolutionary ideas. International hackers from different
             backgrounds form teams to work on cutting edge technologies and to solve real business problems coming
             straight from the business world.
