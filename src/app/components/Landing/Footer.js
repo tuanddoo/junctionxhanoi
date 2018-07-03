@@ -15,7 +15,7 @@ class Footer extends React.Component {
 
           <Row center="xs">
             <Col xs={12}>
-              <a href="mailto:budapest@hackjunction.com">budapest@hackjunction.com</a>
+              <a href="mailto:hanoi@hackjunction.com">hanoi@hackjunction.com</a>
               <p>Follow us on Social Media!</p>
               <a href="https://www.facebook.com/thetechembassy/" className={styles.logoTitle}>
                 <img className={styles.picture} src="/images/facebook_logo.png" alt="Logo" />&nbsp;Facebook
