@@ -18,7 +18,7 @@ class TopNav extends React.Component {
       <div className={styles.header_wrapper}>
         <header className={styles.header}>
           <Link to="/">
-            <img className={styles.junction_logo} src="/images/JUNCTIONxBudapest-logo-wordmark-black.png" alt="Logo" />
+            <img className={styles.junction_logo} src="/images/JUNCTIONxHanoi-logo-wordmark-black.png" alt="Logo" />
           </Link>
           <div>
             <nav className={styles.site_nav}>
