@@ -18,7 +18,7 @@ const Newsletter = () => (
         <Col xs={12} md={6}>
           <h3>STAY IN THE KNOW</h3>
           <p>
-            Don’t want to miss out on any update about JUNCTIONxBudapest?<br />
+            Don’t want to miss out on any update about JUNCTIONxHanoi?<br />
             <br />
             Let us take care of that!<br />
             <br />
