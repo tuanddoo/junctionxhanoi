@@ -28,7 +28,7 @@ class Team extends React.Component {
                 Are you seeking a way to showcase your company among young professionals? Look no more! Contact us and
                 we would gladly get back to you with our proposal, tailored to your company’s needs.
               </p>
-              <FancyButton to="mailto:budapest@hackjunction.com" title="Contact us" />
+              <FancyButton to="mailto:hanoi@hackjunction.com" title="Contact us" />
             </Col>
             <Col xs={12} md={6} className={styles.column}>
               <Link to="/">
@@ -37,9 +37,9 @@ class Team extends React.Component {
               <h1>Volunteer</h1>
               <p>
                 If you think you would fit into our team perfectly, drop us a message! Join us and let’s make
-                JUNCTIONxBudapest unforgettable together!
+                JUNCTIONxHanoi unforgettable together!
               </p>
-              <FancyButton to="mailto:budapest@hackjunction.com" title="Apply here" />
+              <FancyButton to="mailto:hanoi@hackjunction.com" title="Apply here" />
             </Col>
           </Row>
         </Block>
